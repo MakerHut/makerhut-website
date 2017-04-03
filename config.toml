@@ -65,17 +65,17 @@ googleAnalytics = ""
         [[params.services.list]]
 			icon = "fa-space-shuttle"
 			title = "Modern Tools"
-			description = "DIY tools and technology have become increasingly offordable and accessible. Dive into hobby electronics with us using everything from Arduinos and Raspberry Pis to Spark Cores litteBits."
+			description = "DIY tools and technology have become increasingly affordable and accessible. Dive into hobby electronics with us using everything from Arduinos and Raspberry Pis to Spark Cores and litteBits."
 
 		[[params.services.list]]
             icon = "fa-paint-brush"
             title = "Creative Expression"
-            description = "Creative thinking has been a major key to solving many of humanities problems and advancing civilisation. Crafts, art and design are a big part of or curriculum to help develop critical thinking."
+            description = "Creative thinking has been a major key to solving many of humanities problems and advancing civilisation. Crafts, art and design are integrated in our program to help develop critical thinking."
 
         [[params.services.list]]
             icon = "fa-book"
             title = "Maker Education"
-            description = "As an official partner of MakerEd through the Maker Corps program, we are working on curriculum to bring sustainable maker education to primary and secondary students."
+            description = "As an official partner of MakerEd through the Maker Corps program, we are working on a curriculum to bring sustainable maker education to primary and secondary students."
 
 
     # Portfolio modals
