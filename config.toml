@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "MakerHut"
 theme = "hugo-creative-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-96769525-1"
 
 [params]
 
